@@ -15,15 +15,15 @@ Read Instructions carefully -
 
 #These are the classes in the dataset:
 
-airplane
-automobile
-bird
-cat
-deer
-dog
-frog
-horse
-ship
+airplane,
+automobile,
+bird,
+cat,
+deer,
+dog,
+frog,
+horse,
+ship,
 truck
 
 #Approach
